@@ -1,0 +1,22 @@
+MODEL EVALUATION
+Metric	Value
+Accuracy	1
+
+
+SAMPLE PREDICTION
+Actual	Predicted
+positive	positive
+positive	positive
+negative	negative
+negative	negative
+positive	positive
+neutral	neutral
+positive	positive
+positive	positive
+neutral	neutral
+neutral	neutral
+positive	positive
+positive	positive
+neutral	neutral
+neutral	neutral
+negative	negative
